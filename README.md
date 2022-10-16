@@ -7,4 +7,4 @@ I'm Ayomide a frontend developer with a great experience on HTML, CSS and Javasc
 * 💻 HTML, CSS and JS
 
 ## Examples of Works
-<img src="https://www.canva.com/design/DAFPOI9kHQE/watch"></img>
+<img src="https://www.canva.com/design/DAFPOI9kHQE/watch" />
