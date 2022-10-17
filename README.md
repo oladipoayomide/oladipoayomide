@@ -8,5 +8,7 @@ I'm Ayomide a frontend developer with a great experience on HTML, CSS and Javasc
 
 ## Examples of Works
 <a target="_blank" href="https://tenziesgame.web.app"><img src="tenzies game app.gif" width='256px'/></a>
+<a target="_blank" href="https://tenziesgame.web.app"><img src="tenzies game app.gif" width='256px'/></a>
+
 
 
