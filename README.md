@@ -7,7 +7,7 @@ I'm Ayomide a frontend developer with a great experience on HTML, CSS and Javasc
 * 💻 HTML, CSS and JS
 
 ## Examples of Works
-<a href="tenziesapp"><img src="tenzies game app.gif" width='256px'/></a>
+<a href="https://github.com/oladipoayomide/tenziesapp"><img src="tenzies game app.gif" width='256px'/></a>
 
 
 
