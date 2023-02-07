@@ -13,7 +13,8 @@ I'm Ayomide a frontend developer with a professional experience on HTML, CSS and
    height=auto /></a> -->
 
 
-
+## Resume
+<a href="https://drive.google.com/file/d/1VUGSjTG-iEIHw4bgaws3S_8Ef2MdvlyL/view?usp=share_link">Resume</a>
 
 
 
